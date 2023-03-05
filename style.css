@@ -52,7 +52,7 @@
 }
 
 .faqback{
-    background-image: url("/parkify/back.jpg/");
+    background-image: url("/parkify/back.jpg");
     padding: 4vh 0vh;
 }
 
@@ -121,5 +121,5 @@ button:hover{
 }
 
 .area{
-    background-image: url("/parkify/back.jpg/");
+    background-image: url("/parkify/back.jpg");
 }
