@@ -1,0 +1,125 @@
+.logo{
+    height:6vh;
+    /* margin-right: 1vw; */
+}
+
+.login{
+    color:whitesmoke;
+    text-decoration: none;
+    margin:1vh;
+}
+
+.login:hover{
+    font-weight: bold;
+    color: rgb(200, 200, 200);
+    font-size: large;
+}
+
+.signup:hover{
+    font-weight: bold;
+    color: rgb(200, 200, 200);
+    font-size: large;
+    
+}
+
+.signup{
+    margin-left: 1vw;
+    margin-right:2vw;
+}
+
+.signuplink{
+    text-decoration: none;
+    color: whitesmoke;
+    margin:1vh;
+}
+
+.pics{
+    height:60vh;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.faq{
+    width:80vw;
+    margin:auto;
+}
+
+.faqtitle{
+    text-align: center;
+    padding-bottom: 1vh;
+}
+
+.faqback{
+    background-image: url("images/back.jpg");
+    padding: 4vh 0vh;
+}
+
+.quesbox{
+    background-color: white;
+    padding:1vh;
+    border-radius: 1vh;
+    margin: 1vh auto;
+}
+
+.ans{
+    padding: 1vh;
+    text-align: justify;
+}
+
+.slast{
+    background-color: #212529;
+    color: white;
+    text-decoration: none;
+}
+
+.fitem{
+    text-decoration: none;
+}
+
+.last{
+    padding: 1vh;
+    background-color: #212529;
+    color: white;
+}
+
+footer li a{
+    color: aliceblue;
+    padding:1vh;
+}
+
+footer li a:hover{
+    color:grey;
+    font-weight: bold;
+}
+
+footer ul{
+    padding: 1vh;
+}
+
+.linked{
+    text-decoration: none;
+}
+
+.linked:hover{
+    color: white;
+}
+
+button:hover{
+    color: white;
+}
+
+.contact{
+    margin:4vh;
+}
+
+.signpage{
+    margin:auto;
+    width: 30vw;
+    padding:5vh;
+}
+
+.area{
+    background-image: url("images/back.jpg");
+}
